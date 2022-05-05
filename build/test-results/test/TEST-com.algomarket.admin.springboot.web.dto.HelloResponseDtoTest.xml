@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.algomarket.admin.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-03T02:52:28" hostname="DESKTOP-5MH3MIU" time="0.349">
+  <properties/>
+  <testcase name="롬복_기능_테스트" classname="com.algomarket.admin.springboot.web.dto.HelloResponseDtoTest" time="0.349"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
