@@ -40,6 +40,7 @@ public class PostsApiControllerTest {
     }
 
     @Test
+//    @WithMockUser(roles="USER")
     public void Posts_등록된다() throws Exception{
 
         String title = "title";
@@ -63,6 +64,7 @@ public class PostsApiControllerTest {
     }
 
     @Test
+//    @WithMockUser(roles="USER")
     public void Posts_수정된다() throws Exception{
         Posts savedPosts = postsRepository.save(Posts.builder()
                 .title("title")
